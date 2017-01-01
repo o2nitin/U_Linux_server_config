@@ -2,7 +2,7 @@
 
 The application is running on:
 
-  http://ec2-35-166-161-179.us-west-2.compute.amazonaws.com/
+  http://ec2-35-166-161-179.us-west-2.compute.amazonaws.com
   IP address: 35.166.161.179
   SSH port: 2200
 
